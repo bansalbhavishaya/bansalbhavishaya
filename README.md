@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhavishaya Bansal</h1>
 <h3 align="center">A passionate machine learning developer, problem solver from India</h3>
+(img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bansalbhavishaya&label=Profile%20views&color=0e75b6&style=flat" alt="bansalbhavishaya" /> </p>
 
